@@ -1,0 +1,10 @@
+String a[][][]=new String[m][][];
+for(int i=0;i<a.length;i++)
+{
+a[i]=new String[sc.nextInt][];
+}
+for(int i=o;i<a.lenth;j++)
+{
+for(int j=o;j<a[i].length;j++)
+{
+a[i][j]=new String[sc.nextInt][];
